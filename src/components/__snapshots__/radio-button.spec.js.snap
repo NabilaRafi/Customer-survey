@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButton Render sectionPanel without crashing 1`] = `
+<div>
+  <label>
+    <input
+      checked={true}
+      onChange={[Function]}
+      type="radio"
+      value="yes"
+    />
+    yes
+  </label>
+  <label>
+    <input
+      checked={false}
+      onChange={[Function]}
+      type="radio"
+      value="no"
+    />
+    no
+  </label>
+</div>
+`;
